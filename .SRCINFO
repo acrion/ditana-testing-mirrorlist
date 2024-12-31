@@ -1,0 +1,11 @@
+pkgbase = ditana-testing-mirrorlist
+	pkgdesc = Ditana testing mirrorlist for pacman
+	pkgver = 1.12
+	pkgrel = 1
+	url = https://ditana.org
+	arch = any
+	license = AGPL-3.0-or-later
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-testing-mirrorlist/ditana-testing-mirrorlist
+	sha256sums = SKIP
+
+pkgname = ditana-testing-mirrorlist

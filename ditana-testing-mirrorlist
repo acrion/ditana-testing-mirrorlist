@@ -1,0 +1,5 @@
+# Switzerland / Cloudflare
+Server = https://ditana.org/$repo-testing/$arch
+
+# Germany
+Server = https://zipproth.de/ditana.org/$repo-testing/$arch
